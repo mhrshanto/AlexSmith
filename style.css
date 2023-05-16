@@ -32,3 +32,23 @@ nav ul li a {
     text-decoration: none;
     color: #000;
 }
+.main-header {
+    display: flex;
+    padding: 20px 100px;
+    background-color: aquamarine;
+}
+.main-header .image-area, .main-header .text-area {
+    width: 50%;
+}
+.main-header .image-area {
+    display: flex;
+    justify-content: center;
+}
+.main-header .text-area {
+    width: 300px;
+}
+.main-header .image-area img {
+    height: 300px;
+    width: auto;
+    border-radius: 40%;
+}
