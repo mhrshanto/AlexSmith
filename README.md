@@ -1,5 +1,5 @@
-# AlexSmith
-The personal portfolio project, titled "AlexSmith," is a captivating showcase of an individual's skills, achievements, and personal growth within various creative fields. It serves as a comprehensive visual and interactive representation of their talents, experiences, and professional journey.
+# TeamAlex
+The personal portfolio project, titled "TeamAlex," is a captivating showcase of an individual's skills, achievements, and personal growth within various creative fields. It serves as a comprehensive visual and interactive representation of their talents, experiences, and professional journey.
 
 The portfolio project is meticulously designed to provide visitors with a unique and engaging experience, reflecting the creator's artistic vision and personality. Through a seamless blend of captivating visuals, innovative design elements, and compelling storytelling, this project aims to captivate and inspire viewers.
 
