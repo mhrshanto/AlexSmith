@@ -93,3 +93,15 @@ body {
     background-color: #000;
     text-decoration: none;
 }
+
+/* What I Do section started here */
+.what_i_do {
+    display: flex;
+    margin: 20px 200px;
+}
+.skill {
+   padding: 20px;
+}
+.skill h3 {
+    padding-bottom: 10px;
+}
